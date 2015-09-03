@@ -6,7 +6,7 @@ var Catalog = (function(){
   catalog.seedCatalog = function(){
     var self = this;
     $.ajax({
-      url: 'http://localhost:3000/products'
+      url: 'https://infinite-eyrie-1136.herokuapp.com'
     }).then(function(products){
       self.products = products;
     });
