@@ -1,6 +1,6 @@
 'use strict';
 
-var server = 'http://localhost:3000';
+var server = 'https://infinite-eyrie-1136.herokuapp.com';
 
 var Catalog = Catalog || {};
 var Order = Order || {};

@@ -1,6 +1,6 @@
 'use strict';
 
-var sa = 'http://localhost:3000';
+var sa = 'https://infinite-eyrie-1136.herokuapp.com';
 
 var MyApi = (function(stripeToken){
   return {
