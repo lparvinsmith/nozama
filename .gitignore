@@ -1,1 +1,5 @@
-node_modules/
+node_modules/*
+!node_modules/jquery
+!node_modules/bootstrap
+!node_modules/handlebars
+!node_modules/simplestorage.js
